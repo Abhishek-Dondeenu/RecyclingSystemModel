@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cardboard</folder>
+	<filename>cardboard143.jpg</filename>
+	<path>C:\Users\HP\Documents\TensorFlow\workspace\training_demo\images\cardboard\cardboard143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>29</ymin>
+			<xmax>352</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

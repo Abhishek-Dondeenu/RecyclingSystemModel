@@ -1,0 +1,26 @@
+<annotation>
+	<folder>metal</folder>
+	<filename>metal371.jpg</filename>
+	<path>C:\Users\HP\Documents\TensorFlow\workspace\training_demo\images\metal\metal371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>114</ymin>
+			<xmax>436</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
